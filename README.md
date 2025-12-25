@@ -7,10 +7,6 @@ Yapay zekâ ile oluşturulmuş örnek bir LightBot klonu.
 🔗 Proje bağlantısı:  
 https://v0.app/templates/lightbot-clone-9vGS90NBaYC
 
-### 🔁 Benzer Oyunlar
-- https://lightbot.com/hour-of-code.html  
-- https://spritebox.com/hour.html  
-- https://lightbot.lu/
 ## 🔹 Sudoku
 👉 https://sudoku.com
 
