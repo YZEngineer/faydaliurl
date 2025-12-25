@@ -1,32 +1,63 @@
-# OYUN
+# 🎮 OYUNLAR
 
-## [myLightBot](https://v0.app/templates/lightbot-clone-9vGS90NBaYC)
+## 🔹 myLightBot
 
-## [sudoku](sudoku.com)
+Yapay zekâ ile oluşturulmuş örnek bir LightBot klonu.
 
-## [mayın tarlası](https://minesweeper.online)
+🔗 Proje bağlantısı:  
+https://v0.app/templates/lightbot-clone-9vGS90NBaYC
 
-# YAPAY ZELA ARAÇLARI : 
- 
-## [emergent](https://app.emergent.sh)
+### 🔁 Benzer Oyunlar
+- https://lightbot.com/hour-of-code.html  
+- https://spritebox.com/hour.html  
+- https://lightbot.lu/
+## 🔹 Sudoku
+👉 https://sudoku.com
 
-## [mgx](https://mgx.dev/)
+## 🔹 Mayın Tarlası (Minesweeper)
+👉 https://minesweeper.online
 
-## [lovable](https://lovable.dev/)
+---
 
-## [bolt](https://bolt.new/)
+# 🤖 YAPAY ZEKA ARAÇLARI
 
-## [v0](https://v0.app/)
-# ----------------------------------------------------------
+Projelerde kullanılan veya faydalanılan yapay zekâ araçları:
 
-# MCP NEDİR?
-# KOMUT MÜHENDİSLİĞİ NEDİR?
-# ----------------------------------------------------------
+## 🔹 Emergent
+👉 https://app.emergent.sh
 
-# NOT :
-# iyi sonuç için iyi komut gereklidir 
-[komut oluşturucu :](https://generateprompt.ai/en)
+## 🔹 MGX
+👉 https://mgx.dev/
 
-# ----------------------------------------------------------
+## 🔹 Lovable
+👉 https://lovable.dev/
 
-SİMULATİON ... 
+## 🔹 Bolt
+👉 https://bolt.new/
+
+## 🔹 v0
+👉 https://v0.app/
+
+---
+
+# 📌 MCP NEDİR?
+
+---
+
+# 🧠 KOMUT MÜHENDİSLİĞİ (PROMPT ENGINEERING) NEDİR?
+
+
+
+---
+
+# 📝 NOT
+İyi sonuç almak için **iyi bir komut gereklidir**.
+
+🔗 Komut oluşturucu:  
+https://generateprompt.ai/en
+
+---
+
+# 🧪 SIMULATION
+
+🚧 *Geliştirme aşamasında bizi izlemeye devam edin...*
