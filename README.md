@@ -34,17 +34,25 @@ Projelerde kullanılan veya faydalanılan yapay zekâ araçları:
 ## 🔹 v0
 👉 https://v0.app/
 
-
+🔹 diğerleri ...
 👉 https://rosebud.ai/
+
 👉 https://www.rosebud.app/
+
 👉 https://www.glideapps.com/
+
 👉 https://www.supernova.io/
+
 👉 https://base44.com/
+
 👉 https://www.codevibe.ai/
+
 👉 https://hercules.app/
+
 👉 https://www.vibecodeapp.com/
+
 👉 https://www.rocket.new/
--
+
 ---
 
 # 📌 MCP NEDİR?
