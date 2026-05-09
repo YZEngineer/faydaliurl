@@ -13,6 +13,9 @@ https://v0.app/templates/lightbot-clone-9vGS90NBaYC
 ## 🔹 Mayın Tarlası (Minesweeper)
 👉 https://minesweeper.online
 
+## 🔹 kamikaze drone simulator
+👉 https://store.steampowered.com/app/4036490/Kamikaze_Strike_FPV_Drone_Demo/
+
 ---
 
 # 🤖 YAPAY ZEKA ARAÇLARI
@@ -75,4 +78,7 @@ https://generateprompt.ai/en
 
 # 🧪 SIMULATION
 
-🚧 *Geliştirme aşamasında bizi izlemeye devam edin...*
+
+## 🔹 kamikaze drone simulator
+👉 https://store.steampowered.com/app/4036490/Kamikaze_Strike_FPV_Drone_Demo/
+
